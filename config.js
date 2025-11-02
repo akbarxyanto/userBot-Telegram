@@ -4,8 +4,8 @@
  */
  
 module.exports = {
-    apiId: YOUR_API_ID,
-    apiHash: "YOUR_API_HASH",
+    apiId: 23971981,
+    apiHash: "edcbf2461747a1a7853e69a3ab4e9413",
     sessionFile: "session.json",
-    ownerId: YOUR_ID,
+    ownerId: 8415934507,
 };
